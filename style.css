@@ -1,0 +1,33 @@
+p {
+    font-size: 3rem;
+    font-weight: 800;
+    font-family: 'Wix Madefor Display', sans-serif;
+}
+
+.imageTop {
+    width: 28rem;
+    max-height: 5rem;
+    border-radius: 250px;
+    margin: auto;
+}
+
+.imageMiddle {
+    width: 35rem;
+    max-height: 5rem;
+    border-radius: 250px;
+}
+
+.imageBottom {
+    width: 40rem;
+    max-height: 5rem;
+    border-radius: 250px;
+}
+
+.container-fluid {
+    max-height: 15rem;
+    width: 70%;
+}
+
+.headingMiddle {
+    font-weight: 200;
+}
